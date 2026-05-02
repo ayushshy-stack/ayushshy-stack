@@ -11,16 +11,16 @@
 <p align="center">
 Hi 👋 I'm Ayush — a Computer Science (AI & ML) student focused on building real-world systems, not just projects.<br/><br/>
 
-I work across full-stack development and AI, turning ideas into practical tools that solve clear problems. Recently, I’ve been exploring intelligent systems like decision engines and data-driven applications.<br/><br/>
+I work across full-stack development and AI, turning ideas into practical tools that solve clear problems.<br/><br/>
 
-Most of what I build is driven by curiosity — breaking down how things work, rebuilding them better, and learning by doing.
+Most of what I build is driven by curiosity — learning by building and improving systems over time.
 </p>
 
 <p align="center">
 <strong>Currently focused on:</strong><br/>
 • AI-powered applications<br/>
 • Backend systems & APIs<br/>
-• Scalable and practical project design
+• Scalable systems
 </p>
 
 <hr/>
@@ -29,13 +29,13 @@ Most of what I build is driven by curiosity — breaking down how things work, r
 <h2 align="center">🚧 In Progress</h2>
 
 <p align="center">
-Building an AI-driven application with a focus on backend systems and decision-making logic.<br/><br/>
+Building an AI-driven application focused on backend systems and decision-making logic.<br/><br/>
 
-The goal is to create something practical and not just another demo project.<br/><br/>
+The goal is to create something practical — not just another demo project.<br/><br/>
 
 Will be live soon.<br/><br/>
 
-📌 Goal: Build fewer but higher-quality, real-world projects
+📌 Goal: Build fewer but higher-quality projects
 </p>
 
 <hr/>
@@ -64,15 +64,15 @@ Focused on building real-world systems using AI and scalable backend architectur
 <hr/>
 
 <!-- CONNECT -->
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-jaiswal-2a5b3b3a5/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="mailto:ayushshy4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <a href="https://www.instagram.com/ayush_jaisz?igsh=Ym51eDZwc2V4MWtk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
 </p>
 
@@ -82,11 +82,8 @@ Focused on building real-world systems using AI and scalable backend architectur
 <p align="center">
   <img src="https://i.pinimg.com/originals/af/a2/27/afa2276fbeb0e64f8aac003a2aa92c34.gif"
        alt="gif"
-       style="
-         width: 100%;
-         border-radius: 18px;
-         box-shadow: 0px 15px 40px rgba(0,0,0,0.45);
-       " />
+       width="100%"
+       style="border-radius:18px; box-shadow:0px 15px 40px rgba(0,0,0,0.45);" />
 </p>
 
 <hr/>
