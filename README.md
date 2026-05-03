@@ -16,21 +16,36 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-Hi 👋 I'm Ayush — a Computer Science (AI & ML) student who approaches programming like a mechanic approaches machines.<br/><br/>
+  <table>
+    <tr>
+      <td width="700px" align="center">
 
-I like breaking down systems, understanding how they work internally, and fixing or improving them through code.<br/><br/>
+Hi 👋 I'm Ayush — a Computer Science (AI & ML) student who approaches programming like a mechanic approaches machines.  
 
-My work revolves around AI applications, backend systems, and full-stack development — especially building automation tools, APIs, and real-world solutions that solve practical problems.<br/><br/>
+<br/>
+
+I enjoy breaking down systems, understanding how they work internally, and fixing or improving them through code.  
+
+<br/>
+
+My work revolves around AI applications, backend systems, and full-stack development — especially building automation tools, APIs, and real-world solutions.  
+
+<br/>
 
 I actively explore different ideas, tech stacks, and problem spaces to gain deeper understanding, not just surface-level knowledge.
-</p>
 
-<p align="center">
-<strong>Currently focused on:</strong><br/>
-• AI-powered applications & automation tools<br/>
-• Backend systems & scalable APIs<br/>
-• Full-stack projects solving real user problems<br/>
-• Experimenting across different tech stacks to build better systems
+<br/><br/>
+
+<strong>🚀 Currently focused on:</strong>  
+
+• AI-powered applications & automation tools  
+• Backend systems & scalable APIs  
+• Full-stack projects solving real user problems  
+• Experimenting across different tech stacks  
+
+      </td>
+    </tr>
+  </table>
 </p>
 
 <hr/>
