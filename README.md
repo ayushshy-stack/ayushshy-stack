@@ -5,20 +5,15 @@
 
 <hr/>
 
-<!-- GIF -->
-<p align="center">
-  <img src="./assets/coding.gif" width="500"/>
-</p>
-
-<hr/>
-
-<!-- ABOUT -->
+<!-- ABOUT + GIF SIDE BY SIDE -->
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
 <table>
 <tr>
-<td width="650px" align="center">
+
+<!-- LEFT SIDE (ABOUT TEXT) -->
+<td width="60%" align="left">
 
 Hi 👋 I'm Ayush — a Computer Science (AI & ML) student who approaches programming like a mechanic.  
 I break down systems, understand how they work, and improve them through code.  
@@ -36,6 +31,12 @@ I explore different ideas and tech stacks to build deeper understanding beyond s
 • Exploring different tech stacks  
 
 </td>
+
+<!-- RIGHT SIDE (GIF) -->
+<td width="40%" align="center">
+  <img src="./assets/coding.gif" width="250"/>
+</td>
+
 </tr>
 </table>
 </p>
