@@ -24,7 +24,7 @@ I believe in learning by building, shipping projects fast, and improving day by 
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/15f5e95d-abd9-4047-9fd3-efac6739a7ad" />
 
 </td>
 </tr>
