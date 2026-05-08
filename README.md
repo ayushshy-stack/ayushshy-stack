@@ -12,13 +12,11 @@
 
 # Hi 👋 I’m Ayush
 
-A BTech student building at the intersection of backend systems, AI/ML, and automation.  
-I focus on creating scalable and efficient applications ranging from APIs and backend architecture to intelligent tools powered by machine learning.
+I’m a BTech student passionate about AI/ML, backend systems, cloud technologies, and automation.
+I enjoy building scalable applications, experimenting with modern technologies, and learning through hands-on development and real-world problem solving.
 
-I’m particularly interested in backend engineering, AI systems, automation workflows, and developer-focused tools where I can experiment, solve real-world problems, and continuously improve my skills through building.
-
-Most of my work is driven by curiosity and experimentation.  
-I believe in learning by building, shipping projects fast, and improving day by day while exploring modern technologies and system design.
+I’m especially interested in creating impactful products and systems that solve user problems and can create long-term value.
+Most of my learning comes from experimentation, curiosity, and improving through mistakes while continuously building and exploring new ideas.
 
 </td>
 
