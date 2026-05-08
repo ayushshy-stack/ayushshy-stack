@@ -1,14 +1,54 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Student+%7C+Improving+d%2Fd;Backend+Systems+Developer;Open+Source+Contributor;Building+Scalable+Systems;Learning+Something+New+Everyday" />
 
-### AI/ML Developer • BTech Student • Backend & Automation Enthusiast
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+# Hi 👋 I’m Ayush
+
+A BTech student building at the intersection of backend systems, AI/ML, and automation.  
+I focus on creating scalable and efficient applications ranging from APIs and backend architecture to intelligent tools powered by machine learning.
+
+I’m particularly interested in backend engineering, AI systems, automation workflows, and developer-focused tools where I can experiment, solve real-world problems, and continuously improve my skills through building.
+
+Most of my work is driven by curiosity and experimentation.  
+I believe in learning by building, shipping projects fast, and improving day by day while exploring modern technologies and system design.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🚀 Skills
+# 🚀 Skills
 
 <div align="center">
 
@@ -18,7 +58,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -35,12 +75,3 @@
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### ⚡ Building cool stuff with AI, Backend & Automation
-
-</div>
-
