@@ -1,91 +1,46 @@
-<!-- Animation Part -->
-
 <div align="center">
-  
-  <!-- Put Your Animation Here -->
+
+# 👋 Hey, I'm Ayush
+
+### AI/ML Developer • BTech Student • Backend & Automation Enthusiast
 
 </div>
 
 ---
-
-<!-- About Me + GIF -->
-
-<table>
-<tr>
-<td width="60%">
-
-## 👨‍💻 About Me
-
-- Write your intro here
-- Write your learning stack here
-- Write your goals here
-
-</td>
-
-<td width="40%">
-
-<img src="YOUR_GIF_HERE" width="250"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Stats -->
-
-## 📊 Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-
-</div>
-
----
-
-<!-- Skills -->
 
 ## 🚀 Skills
 
 <div align="center">
 
-<!-- Skills Icons -->
+<img src="https://skillicons.dev/icons?i=python,ts,go,js,react,nextjs,nodejs,express,flask,mongodb,postgres,mysql,sqlite,docker,aws,linux,git,github,cpp,tensorflow,pytorch,opencv,figma,vscode,npm,postman,notion" />
 
 </div>
 
 ---
-
-<!-- Connect With Me -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<!-- Social Links -->
+<a href="mailto:ayushshy4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ayush_jaisz?igsh=Ym51eDZwc2V4MWtk">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/AyushkrJai20748">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<!-- Contributions -->
-
-## 📈 Contributions
-
 <div align="center">
 
-<!-- Contribution Snake -->
+### ⚡ Building cool stuff with AI, Backend & Automation
 
 </div>
 
----
-
-<!-- Game Animation -->
-
-## 🎮 Game Animation
-
-<div align="center">
-
-<!-- Game Here -->
-
-</div>
