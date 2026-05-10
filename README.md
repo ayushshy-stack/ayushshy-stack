@@ -33,7 +33,7 @@ Most of my learning comes from experimentation, curiosity, and improving through
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=00f7ff&point=00f7ff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshy-stack&bg_color=0d1117&color=00f7ff&line=00f7ff&point=00f7ff&area=true&hide_border=true" width="100%"/>
 </p>
 ---
 
