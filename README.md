@@ -30,20 +30,17 @@ Most of my learning comes from experimentation, curiosity, and improving through
 
 ---
 
-# 📊 Stats
+## 📊 Stats
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushshy-stack&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshy-stack&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushshy-stack&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshy-stack&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshy-stack&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshy-stackE&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 # 🚀 Skills
