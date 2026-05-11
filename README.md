@@ -71,7 +71,7 @@ Most of my learning comes from experimentation, curiosity, and improving through
 
 <div align="center">
 
-### ⚡ AYXM
+### ⚡ AYvXM
 
 Developer • Python | AI • Building useful tools
 
