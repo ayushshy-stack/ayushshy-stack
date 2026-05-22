@@ -16,7 +16,7 @@ I’m a BTech student who enjoys building things, exploring new technologies, an
 
 Most of my interests revolve around AI/ML, backend development, cloud technologies, and automation. I like understanding how systems work behind the scenes and turning ideas into something practical and useful.
 
-I’m someone who learns through curiosity, experimentation, and mistakes — continuously trying to improve while building projects that can solve real problems and create meaningful impactful.
+I’m someone who learns through curiosity, experimentation, and mistakes — continuously trying to improve while building projects that can solve real problems and create meaningful impact.
 
 </td>
 
