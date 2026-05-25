@@ -64,9 +64,6 @@ I’m someone who learns through curiosity, experimentation, and mistakes — co
 </p>
 
 ---
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0D1117,100:000000&height=140&section=footer&animation=fadeIn"/>
 
 ### ⚡   AYXM
 
