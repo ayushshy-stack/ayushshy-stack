@@ -64,9 +64,6 @@ I’m someone who learns through curiosity, experimentation, and mistakes — co
 </p>
 
 ---
-
----
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0D1117&height=2"/>
 </p>
