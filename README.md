@@ -12,11 +12,10 @@
 
 # Hi 👋 I’m Ayush
 
-I’m a BTech student who enjoys building things, exploring new technologies, and learning by actually creating projects instead of just reading about them.
+I'm a BTech student who loves building things from scratch and exploring how technology works behind the scenes. Whether it's developing applications, automating workflows, or experimenting with AI, I enjoy turning concepts into working solutions.
 
-Most of my interests revolve around AI/ML, backend development, cloud technologies, and automation. I like understanding how systems work behind the scenes and turning ideas into something practical and useful.
+My interests include AI/ML, backend systems, cloud technologies, and software development. I believe every project is an opportunity to learn, solve problems, and create something meaningful.
 
-I’m someone who learns through curiosity, experimentation, and mistakes — continuously trying to improve while building projects that can solve real problems and create meaningful impact.
 
 </td>
 
