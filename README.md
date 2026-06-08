@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Student;Backend+Systems+Explorer;Open+Source+contributor;Improving+D/D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Backend+Systems+Explorer;Building+Real-World+Projects;Open+Source+Contributor;Learning+Something+New+Every+Day" />
 
 </div>
 
@@ -15,7 +15,6 @@
 I'm a BTech student who loves building things from scratch and exploring how technology works behind the scenes. Whether it's developing applications, automating workflows, or experimenting with AI, I enjoy turning concepts into working solutions.
 
 My interests include AI/ML, backend systems, cloud technologies, and software development. I believe every project is an opportunity to learn, solve problems, and create something meaningful.
-
 
 </td>
 
@@ -34,6 +33,7 @@ My interests include AI/ML, backend systems, cloud technologies, and software de
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshy-stack&bg_color=0d1117&color=00f7ff&line=00f7ff&point=00f7ff&area=true&hide_border=true" width="100%"/>
 </p>
+
 ---
 
 # 🚀 Skills
@@ -64,8 +64,6 @@ My interests include AI/ML, backend systems, cloud technologies, and software de
 
 ---
 
-### ⚡   AYXM
+### ⚡ AYXM
 
 Developer • Python | AI • Building useful tools
-
-</div>
