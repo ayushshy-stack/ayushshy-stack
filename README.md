@@ -14,7 +14,7 @@
 
 I'm a BTech student who loves building things from scratch and exploring how technology works behind the scenes. Whether it's developing applications, automating workflows, or experimenting with AI, I enjoy turning concepts into working solutions.
 
-My interests include AI/ML, backend systems, cloud technologies, and software development. I believe every project is an opportunity to learn, solve problems, and create something meaningful.
+My interests include AI/ML, backend systems, cloud technologies, and software development. I see every project as an opportunity to learn, solving problems, and creating something meaningful.
 
 </td>
 
